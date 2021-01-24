@@ -13,5 +13,10 @@ namespace Belajar_Github.Controllers
         {
             return View();
         }
+
+        public ActionResult Aoakwoawk()
+        {
+            return View();
+        }
     }
 }
